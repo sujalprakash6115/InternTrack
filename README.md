@@ -2,6 +2,8 @@
 
 A complete job & internship application tracker that runs entirely in the browser.
 
+< 🚀 **Live Demo:** [https://intern-track-leebvpdns-ms-0be5.vercel.app/](https://intern-track-leebvpdns-ms-0be5.vercel.app/) >
+
 **No backend required.** All data is stored in your browser's localStorage.
 
 ## Features
@@ -66,9 +68,14 @@ npm run build
 
 Output goes to the `dist/` folder. You can deploy it to Vercel, Netlify, GitHub Pages, etc.
 
+## Live Deployment
+
+- **Platform:** Vercel
+- **Live Website:** [Open InternTrack](https://intern-track-leebvpdns-ms-0be5.vercel.app/)
+
 ## Project structure
 
-```
+```text
 src/
 ├── context/          # Auth context
 ├── layouts/          # Dashboard sidebar layout
@@ -83,3 +90,7 @@ src/
 ## License
 
 MIT — free for learning and portfolio projects.
+
+---
+
+⭐ If you find this project useful, consider giving it a star!
